@@ -64,7 +64,7 @@ gitdb==4.0.9
 GitPython==3.1.27
 google-api-core==2.8.2
 google-auth==2.8.0
-google-auth-oauthlib==0.4.6
+google-auth-oauthlib==0.5.2
 google-pasta==0.2.0
 googleapis-common-protos==1.56.3
 gpustat==1.0.0b1
